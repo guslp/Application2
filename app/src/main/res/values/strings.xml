@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ECAM\'arket</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- Page d'accueil-->
+    <string name="home_page_title">Nouveauté</string>
+    <string name="home_page_lastoffer">Dernieres Annances</string>
+    <string name="home_page_offer_name"> Nom de l\'Annonce </string>
+    <string name="home_page_description">Description de l\'Ann once</string>
+
+    <!-- Page mes offres-->
+    <string name="page_my_offer">Mes Annonces</string>
+
+    <!-- Page customise-->
+    <string name="item_offer_name">Nom de l\'Annonce</string>
+    <string name="item_offer_description">description de l\'Annonce</string>
+
+    <!-- Page ajout d'annonces -->
+    <string name="add_offer_page"> Ajout d\'une Annonce</string>
+    <string name="add_offer_page_upload_button">Charger une Image</string>
+    <string name="add_offer_page_name_imput">Nom de l\'Annonce</string>
+    <string name="add_offer_page_description_input">Description de l\'Annconces</string>
+    <string name="add_offer_page_price_imput">Prix de vente</string>
+
+    <!-- Fenetre pop-up de détail -->
+    <string name="popup_offer_name"> Nom de l\'Annonce</string>
+    <string name="popup_offer_descrition"> Description de l\'Annonce</string>
+    <string name="popup_offer_price"> Prix de l\'Annonce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
